@@ -31,8 +31,6 @@ Example:
 
 ## 🌐 About CompactCode
 
-- Website: https://compactcode.eu  
-- Email: hello@compactcode.eu  
 - Odoo Apps Publisher: CompactCode  
 - GitHub Organization: CompactCodeEU  
 

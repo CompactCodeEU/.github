@@ -1,51 +1,45 @@
 # CompactCode
 
-CompactCode is an **Odoo partner** specializing in custom development, integrations, and scalable business solutions.
+CompactCode is an **Odoo partner** specializing in custom development, integrations, and reusable modules.
 
-Alongside client work, we also build and maintain **reusable Odoo modules**, some of which are publicly available on the **Odoo Apps Store**.
+We build tailored Odoo solutions for companies and publish selected modules on the **Odoo Apps Store**.
 
 ---
 
 ## 🚀 What we do
 
 - Odoo implementation & customization  
-- Development of custom modules  
+- Custom module development  
 - System integrations  
 - Performance optimization & maintenance  
 - Development of reusable Odoo apps  
 
 ---
 
-## 🧩 Our Odoo Modules
+## 🧩 Odoo Modules
 
-We develop and publish selected modules for the Odoo ecosystem.
+We develop and publish Odoo modules for the wider ecosystem.
 
 👉 Explore our modules:
 - https://compactcode.eu/odoo-modules  
 - https://apps.odoo.com/apps/browse?search=compactcode  
 
-Example:
-- **cc_multiword_search** – Improved multi-word search behavior in Odoo  
-
 ---
 
-## 🌐 About CompactCode
-
-- Odoo Apps Publisher: CompactCode  
-- GitHub Organization: CompactCodeEU  
+## 🌐 About
 
 CompactCodeEU is the official GitHub organization of CompactCode.
 
 ---
 
-## 🤝 Work with us
+## 🤝 Contact
 
-We help companies get the most out of Odoo through tailored solutions and high-quality development.
+- Website: https://compactcode.eu  
+- Email: hello@compactcode.eu  
 
-If you're looking for:
-- custom Odoo features  
-- reliable technical expertise  
-- or scalable module development  
+---
 
-👉 Get in touch: https://compactcode.eu/contact  
-📩 Or email us directly: hello@compactcode.eu  
+## 📌 Notes
+
+- Many modules are client-specific and not publicly available  
+- Public modules are published via the Odoo Apps Store  
